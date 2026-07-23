@@ -13,10 +13,10 @@ Por fim, ocorre o processo de descriptografia. O backup seguro armazenado em Key
 
 ## Como utilizar:
 Clone este repositório:
-´git clone https://github.com/Rafcroft/Radar-PenTest](https://github.com/Rafcroft/Radar-PenTest´
+`git clone https://github.com/Rafcroft/Radar-PenTest](https://github.com/Rafcroft/Radar-PenTest`
 
 Execute o script:
-´node Criptografia.js´
+`node Criptografia.js`
 
 ## Tecnologias:
 JavaScript - Node.js
